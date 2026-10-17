@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "368ae5c91070fbbb7a92fc40",
+  "owner": "kamkgaeken",
+  "repo": "page-e32a827338ab31a0a75ce402",
+  "title": "haoyun",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e32a827338ab31a0a75ce402",
+      "a": "haoyun",
+      "b": "",
+      "entity": "haoyun",
+      "brand": "haoyun",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d6df6a3ec52c6a5c58244ea1946c8653957266788b490c6177699e495e09f92d",
+      "content": {
+        "keyword1": "haoyun",
+        "keyword2": "",
+        "primary_entity": "haoyun",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "haoYun 是一个面向跨境网络出行的服务品牌。本文以专栏叙事的方式，带你了解 haoYun 的套餐结构、设备支持、线路选择与常见疑问的回应。",
+          "AI_DESCRIPTION": "haoYun 是一个面向跨境网络出行的服务品牌。本文以专栏叙事的方式，带你了解 haoYun 的套餐结构、设备支持、线路选择与常见疑问的回应。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n:root{--bg:#f5efe6;--ink:#2a1a10;--ink-soft:#5a463a;--mint:#bfe2c8;--mint-deep:#5fa677;--line:#d9cdb8;--paper:#fffaf2;--accent:#8a3e1f}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:Georgia,\"Source Han Serif SC\",\"Noto Serif SC\",serif;line-height:1.7}\na{color:var(--accent);text-decoration:none;border-bottom:1px solid rgba(138,62,31,.25)}\na:hover{border-bottom-color:var(--accent)}\n.wrap{max-width:1080px;margin:0 auto;padding:0 28px}\n.crumbs{display:flex;align-items:center;gap:10px;padding:22px 0 0;font-size:13px;color:var(--ink-soft);letter-spacing:.04em}\n.crumbs span{opacity:.5}\n.crumbs a{color:var(--ink-soft);border:none}\n.crumbs a:hover{color:var(--accent)}\n.toc{display:flex;flex-wrap:wrap;gap:6px 22px;padding:10px 0 0;font-size:13px;color:var(--ink-soft)}\n.toc a{color:var(--ink-soft);border:none;padding:6px 0}\n.toc a:hover{color:var(--mint-deep)}\n.hero{padding:42px 0 18px;border-bottom:1px solid var(--line)}\n.kicker{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--mint-deep);margin-bottom:14px}\n.hero h1{font-size:46px;line-height:1.15;margin:0 0 18px;font-weight:700;letter-spacing:-.01em}\n.hero h1 em{font-style:italic;color:var(--mint-deep);font-weight:400}\n.lede{font-size:15px;color:var(--ink-soft);max-width:680px}\n.byline{margin-top:18px;font-size:12px;color:var(--ink-soft);letter-spacing:.08em}\nsection{padding:54px 0;border-bottom:1px solid var(--line)}\nsection:last-of-type{border-bottom:none}\nh2{font-size:28px;margin:0 0 14px;letter-spacing:-.005em}\nh3{font-size:18px;margin:28px 0 10px;color:var(--ink)}\np{margin:0 0 14px}\n.prose p{font-size:15.5px;color:var(--ink-soft)}\n.prose p strong{color:var(--ink)}\n.col-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin-top:18px}\n.col-grid article{background:var(--paper);padding:20px 22px;border:1px solid var(--line)}\n.col-grid article h3{margin-top:0;font-size:16px;color:var(--mint-deep);letter-spacing:.04em}\n.card-row{position:relative;background:var(--paper);padding:34px 30px 30px;margin-top:22px;border:1px solid var(--line);overflow:hidden}\n.card-row .num{position:absolute;right:-12px;bottom:-46px;font-size:180px;line-height:1;font-family:Georgia,serif;color:rgba(95,166,119,.18);font-weight:700;pointer-events:none;user-select:none}\n.card-row .tag{display:inline-block;font-size:12px;letter-spacing:.16em;color:var(--mint-deep);text-transform:uppercase;margin-bottom:6px}\n.card-row .head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:6px}\n.card-row .head h3{margin:0;font-size:24px}\n.card-row .price{font-size:22px;color:var(--accent)}\n.card-row .price small{font-size:12px;color:var(--ink-soft);margin-left:6px}\n.card-row .annual{font-size:13px;color:var(--ink-soft);margin-bottom:14px}\n.card-row ul{margin:14px 0 0;padding-left:20px}\n.card-row ul li{margin-bottom:6px;font-size:14.5px}\n.card-row .badge{display:inline-block;background:var(--mint-deep);color:var(--paper);font-size:11px;letter-spacing:.14em;padding:4px 10px;margin-left:8px;vertical-align:middle}\n.manual{background:var(--paper);border:1px solid var(--line);padding:26px 28px;margin-top:20px}\n.manual ol{margin:0;padding-left:22px}\n.manual ol li{margin-bottom:8px}\n.note{font-size:13px;color:var(--ink-soft);border-left:3px solid var(--mint);padding:6px 14px;margin-top:18px;background:#faf6ec}\n.faq{margin-top:18px}\n.faq details{background:var(--paper);border:1px solid var(--line);padding:0 22px;margin-bottom:10px}\n.faq summary{cursor:pointer;padding:16px 0;font-size:15.5px;font-weight:600;color:var(--ink);list-style:none;display:flex;justify-content:space-between;align-items:center;gap:14px}\n.faq summary::-webkit-details-marker{display:none}\n.faq summary::after{content:\"+\";font-family:Georgia,serif;font-size:22px;color:var(--mint-deep);transition:transform .2s}\n.faq details[open] summary::after{content:\"−\"}\n.faq details p{padding:0 0 18px;color:var(--ink-soft);font-size:14.5px;margin:0}\n.clients{margin-top:14px;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}\n.clients div{background:var(--paper);border:1px solid var(--line);padding:18px 18px 16px}\n.clients div b{display:block;font-size:14px;color:var(--ink);margin-bottom:4px}\n.clients div span{font-size:12.5px;color:var(--ink-soft)}\nfooter{padding:40px 0 60px;color:var(--ink-soft);font-size:13px;text-align:center}\nfooter .sep{opacity:.4;margin:0 8px}\n@media(max-width:780px){\n.hero h1{font-size:34px}\nsection{padding:38px 0}\n.col-grid{grid-template-columns:1fr}\n.clients{grid-template-columns:1fr}\n.card-row .num{font-size:130px;bottom:-36px}\n}\n</style><div class=\"wrap\">\n\n<nav class=\"crumbs\" aria-label=\"面包屑\">\n<a href=\"#\">首页</a><span>/</span><a href=\"#\">网络服务</a><span>/</span><span>haoYun 品牌专栏</span>\n</nav>\n<nav class=\"toc\" aria-label=\"页内目录\">\n<a href=\"#story\">编者按</a>\n<a href=\"#origin\">品牌缘起</a>\n<a href=\"#plans\">订阅套餐</a>\n<a href=\"#manual\">使用说明</a>\n<a href=\"#clients\">客户端支持</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n\n<header class=\"hero\" id=\"story\">\n<div class=\"kicker\">编者按 · Issue 988</div>\n<h1>haoYun：让每一次<em>网络出行</em>，都像顺风</h1>\n<p class=\"lede\">它本是一个写给朋友的备忘，后来变成一份路线图，再后来成为一家愿意把每一条线路、每一个节点、每一份订阅都讲清楚的品牌。这篇专栏想做的，是把 haoYun 的来路与去向，原原本本摊给你看。</p>\n<div class=\"byline\">撰文 · haoYun 编辑部　|　阅读约 8 分钟</div>\n</header>\n\n<section id=\"origin\">\n<h2>缘起：一次普通的差旅</h2>\n<div class=\"prose\">\n<p><strong>haoYun</strong> 的名字，来自几位创始人在 2019 年的一次东南亚差旅。在那七天的行程里，他们频繁遇到同一种尴尬：明明订好了会议室，会议开始前五分钟，演示画面却卡在加载界面；明明预约了晚餐，导航地图却始终转不出圈。于是他们想，如果有一项服务能像顺风一样，把人和目的地之间那段“拧巴”的距离悄悄抹平，该多好？</p>\n<p>haoYun 的“顺”，并不只是快。它是<strong>事先确知</strong>——节点状态、流媒体解锁情况、设备并发上限，在订阅之前就能被查阅；它是<strong>事中稳定</strong>——IPLC 专线、企业定制路由这些听起来很硬的词，被翻译成具体的可用场景；它也是<strong>事后安静</strong>——账单、续费、变更、退订，全在同一个面板里完成，没有被隐藏的小字。</p>\n<p>今天，haoYun 把这种“事先确知、事中稳定、事后安静”的体感整理成了三档订阅，并把它写在下面。</p>\n</div>\n<div class=\"col-grid\" aria-label=\"品牌定位三栏\">\n<article>\n<h3>事先确知</h3>\n<p>每一档套餐的流量、设备数、节点池范围，在订阅页就能逐字读完，没有“详情请咨询销售”的话术。</p>\n</article>\n<article>\n<h3>事中稳定</h3>\n<p>普通线路、IPLC 专线、企业定制路由按场景分层，跨境视频、远程协作、轻度游戏各取所需。</p>\n</article>\n<article>\n<h3>事后安静</h3>\n<p>账单清晰、续费可关、退订流程写进常见问题——这是 haoYun 想留给每位用户的最朴素的承诺。</p>\n</article>\n<article>\n<h3>面向谁</h3>\n<p>常出差的撰稿人、需要远程协作的小型团队、有跨境学习与流媒体需求的内容爱好者，都可以在这里找到入口。</p>\n</article>\n</div>\n</section>\n\n<section id=\"plans\">\n<h2>订阅套餐：把选择权交回你手里</h2>\n<p class=\"prose\">haoYun 目前提供三档订阅。它们不是阶梯式的“越贵越好”，而是按<strong>流量规模、并发设备数、线路类型</strong>三个维度做了清楚的区分。下面这张单列大卡，按由轻到重的顺序依次铺开，方便你从头到尾读完。</p>\n\n<div class=\"card-row\">\n<span class=\"tag\">01 · 入门</span>\n<div class=\"head\">\n<h3>基础版</h3>\n<span class=\"price\">¥15/月<small>含税</small></span>\n</div>\n<div class=\"annual\">按年付仅需 ¥150/年</div>\n<p>适合每月流量需求在百 GB 量级、并发设备不超过三台的轻度场景。</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<div class=\"num\">01</div>\n</div>\n\n<div class=\"card-row\">\n<span class=\"tag\">02 · 推荐</span>\n<div class=\"head\">\n<h3>旗舰版<span class=\"badge\">编辑推荐</span></h3>\n<span class=\"price\">¥35/月<small>含税</small></span>\n</div>\n<div class=\"annual\">按年付仅需 ¥350/年</div>\n<p>适合家庭与小型团队，流媒体、游戏加速、远程协作一并覆盖，是被最多用户选择的那一档。</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n<div class=\"num\">02</div>\n</div>\n\n<div class=\"card-row\">\n<span class=\"tag\">03 · 团队</span>\n<div class=\"head\">\n<h3>团队版</h3>\n<span class=\"price\">¥85/月<small>含税</small></span>\n</div>\n<div class=\"annual\">按年付仅需 ¥850/年</div>\n<p>面向需要高带宽、稳定路由与一对一支持的协作型团队，可按需定制路由策略。</p>\n<ul>\n<li>购买前请通过 <a href=\"#faq\">常见问题</a> 中的渠道咨询定制方案</li>\n<li>提供 7×24 中文工单与企业邮箱双通道支持</li>\n<li>团队成员账号可统一开停，便于内部管理</li>\n<li>支持按季度或按学年结算，详情可与客户经理协商</li>\n<li>允许在合同期内调整一次节点池区域配置</li>\n</ul>\n<div class=\"num\">03</div>\n</div>\n\n<p class=\"note\">以上价格为页面发布时参考价，下单时以结算页显示为准；如有调价或活动，haoYun 会提前在订阅页与用户中心同步公告。</p>\n</section>\n\n<section id=\"manual\">\n<h2>使用说明：从订阅到第一次连上网络</h2>\n<div class=\"manual\">\n<ol>\n<li>在订阅页选择套餐，确认流量、设备数与节点池范围与你的使用场景匹配。</li>\n<li>完成支付后，登录用户中心，在“订阅详情”页面复制属于你的连接信息。</li>\n<li>根据你常用的设备下载对应的客户端，导入连接信息后即可启动。</li>\n<li>首次使用建议先浏览常见问题中的“节点选择建议”，再根据实际延迟做微调。</li>\n<li>若在任一步遇到问题，可在用户中心提交工单，团队版用户还可联系专属客户经理。</li>\n</ol>\n</div>\n<p class=\"note\">haoYun 不会主动代你安装第三方未署名客户端，所有客户端下载链接均位于用户中心“下载”栏目内。</p>\n</section>\n\n<section id=\"clients\">\n<h2>客户端支持：覆盖常见设备类型</h2>\n<p class=\"prose\">haoYun 不绑定单一客户端，而是按平台提供官方维护的导入说明。你可以继续使用自己熟悉的本地工具，也可以用我们整理过的快速接入方式。下面是常见平台的支持清单，具体版本号请以用户中心下载页为准。</p>\n<div class=\"clients\" aria-label=\"客户端支持\">\n<div>\n<b>Windows</b>\n<span>提供 .exe 安装包与便携版两种形态，适用于 Windows 10 及以上系统。</span>\n</div>\n<div>\n<b>macOS</b>\n<span>提供适用于 Apple Silicon 与 Intel 架构的原生安装包，兼容 macOS 12 及以上。</span>\n</div>\n<div>\n<b>iOS</b>\n<span>提供 App Store 之外的导入配置文件，使用前请阅读 iOS 系统的网络权限说明。</span>\n</div>\n<div>\n<b>Android</b>\n<span>提供通用 APK 与部分应用市场的官方分发，签名信息可在用户中心核验。</span>\n</div>\n<div>\n<b>Linux</b>\n<span>提供命令行版与部分桌面环境配置示例，适合熟悉终端操作的用户。</span>\n</div>\n<div>\n<b>路由器</b>\n<span>支持常见第三方路由器固件的导入模板，请根据路由器型号查阅对应教程。</span>\n</div>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题：把心里那点犹豫先问完</h2>\n<p class=\"prose\">haoYun 编辑部把过去一年里被问到最多的疑问整理成了下面这组问答。点击问题可以展开答案；如果你的问题不在其中，欢迎在用户中心提交工单。</p>\n\n<div class=\"faq\">\n<details>\n<summary>haoYun 的“顺风”到底是什么意思？</summary>\n<p>haoYun 想表达的是一种体感：你不需要在每次出行前反复调试网络，也不需要在视频会议前临时切换节点。它通过事先确知的套餐结构、事中稳定的线路分层、事后安静的账单管理，把网络出行变得像搭一趟顺风车那样省心。</p>\n</details>\n<details>\n<summary>三档套餐之间可以中途升级或降级吗？</summary>\n<p>可以在订阅周期内调整。升级档位时，未消耗的流量与剩余天数会按比例折算抵扣；降档会在当前周期结束后生效，期间仍可正常使用已购流量，不会出现中途断网。</p>\n</details>\n<details>\n<summary>团队版的“专属客户经理”提供哪些服务？</summary>\n<p>专属客户经理负责对接团队账号开通、路由策略建议、账单核对与节点池区域调整请求。所有沟通均通过企业邮箱与工单系统留痕，方便内部审计与追溯。</p>\n</details>\n<details>\n<summary>如果用不完当月流量，会清零吗？</summary>\n<p>按月订阅的流量在自然月内有效，未使用的部分不结转至次月；按年订阅则在订阅周期内按月发放，剩余月份可累计到下一周期使用。</p>\n</details>\n<details>\n<summary>是否支持中途退订？</summary>\n<p>支持。在订阅页与用户中心均可发起退订申请，未使用部分将按比例退还至原支付账户；具体到账时间以支付渠道为准，常见渠道为 3–10 个工作日。</p>\n</details>\n<details>\n<summary>节点选择有什么建议？</summary>\n<p>建议先打开客户端中的延迟测试，挑出与你当前所在地延迟最低且丢包率低于 1% 的节点；游戏加速场景优先选择标注 IPLC 的节点；流媒体场景选择已标注“原生解锁”的节点。</p>\n</details>\n<details>\n<summary>haoYun 是否提供发票？</summary>\n<p>提供电子普通发票与电子专用发票（团队版）。可在订阅详情页提交开票信息，发票将以 PDF 附件形式发送至预留邮箱。</p>\n</details>\n</div>\n</section>\n\n<footer>\n<div>haoYun · 让每一次网络出行，都像顺风</div>\n<div class=\"byline\">© haoYun 编辑部　<span class=\"sep\">·</span>本页内容为品牌专栏介绍　<span class=\"sep\">·</span>页面编号 988</div>\n</footer>\n\n</div></main>",
+          "hash": "34674db8dd285f431801da21bf846ac755f22c330e0ed594a96f0e1d1bb719e6",
+          "seo": {
+            "title": "haoYun · 让每一次网络出行，都像顺风",
+            "keywords": "haoYun,网络服务,套餐,线路,节点,客户端,常见问题",
+            "description": "haoYun 是一个面向跨境网络出行的服务品牌。本文以专栏叙事的方式，带你了解 haoYun 的套餐结构、设备支持、线路选择与常见疑问的回应。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "988",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sncbw.cn",
+    "host": "p-c37a851e22.sncbw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "553ac144c047439a3a63e4641a8ef964c0cc734b6b9686bda4e461e186d43433",
+    "sitemap.xml": "cef22f1e9eed31c033d5a4206284546279d2dae4f9dbd9b4bb9926fa1bf25331",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "792f499d8fdc2555404ad0c03403b21593eafbb8eb6d87c17615245edca53a4f",
+    "robots.txt": "a79fc259db59dfeeccb0fecd61db93997d7ac64eb5d892b989be8f457a891b11",
+    "5a2000443aec180422943d61f861d2ce.txt": "fd540e9828e535a82f8ed7748b417faa2bc82d7a15a778bdad0d5adecd2b6d05"
+  },
+  "revision": "a3f059231261edbbd7a445b27abaf66f6233d763feec8db3e3d5c925e21fdf27"
+}
